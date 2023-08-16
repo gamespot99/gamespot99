@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gamespot99
+- 👋 Hi, I’m @gamespot99, I am a noob on github
 - 👀 I’m interested in Linux distros, Linux related topics (SW, Linux kernels...) programming languages
 - 🌱 I’m currently learning bash scripting, JavaScript
 - 💞️ I’m looking to collaborate on ...
